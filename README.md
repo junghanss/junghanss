@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Juan Junghanss</h1>
-<h3 align="center">An aspiring data scientist and economics student from Argentina.</h3>
+<h3 align="center">An aspiring data scientist. BA in Economics from Argentina.</h3>
 
 - 🌱 I’m currently learning more about **R** and **Matlab.**
 
 - 👨‍💻 Here you'll find repositories of courses and personal projects.
 
-- 📫 How to reach me: **jc@junghanss.com.ar**
+- 📫 How to reach me: **jc@junghanss.com.ar** / **junghanss.jc@gmail.com** 
 
 - 📄 Know about my experiences and check my CV at [www.linkedin.com/in/junghanss-juan/](www.linkedin.com/in/junghanss-juan/)
 
