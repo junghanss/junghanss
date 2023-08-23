@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋, I'm Juan Junghanss</h1>
-<h3 align="center">An aspiring data scientist. BA in Economics from Argentina.</h3>
-
-- 🌱 I’m currently learning more about **R** and **Matlab.**
+<h3 align="center">BA in Economics & Master in Finance from Argentina.</h3>
 
 - 👨‍💻 Here you'll find repositories of courses and personal projects.
 
